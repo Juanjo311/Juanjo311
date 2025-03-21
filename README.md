@@ -99,10 +99,4 @@
 
 ###
 
-<p align="left"></p>
 
-###
-
-<img src="https://raw.githubusercontent.com/Juanjo311/Juanjo311/output/snake.svg" alt="Snake animation" />
-
-###
