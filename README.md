@@ -1,102 +1,56 @@
-<h1 align="center">Hello 👋 Soy Juan Jose / Programador</h1>
+## Hello 👋 Soy Juan Jose / Programador  
 
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINKEDIN)  
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](TU_TWITCH)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](TU_INSTAGRAM)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](TU_FACEBOOK)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_CORREO)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](TU_YOUTUBE)  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](TU_DISCORD)
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="42" alt="linkedin logo"> <a href="https://www.linkedin.com/in/juan-jose-tovar-flores-663ba4231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"></a>a> </img>
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="42" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="42" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="42" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="42" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="42" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="42" alt="discord logo"  />
-</div>
+---
 
-###
+### 📌 About me:
+- 🚀 Desarrollador front-end / Back-end, Emprendedor, Investigador y apasionado por la programación.  
+- 📚 Interesado en aprender más cada día, a pocos años de experiencia.  
+- 🎨 Creativo, Programador freelancer... y en futuro quien sabe 🤓.  
+- 🔗 **[Mira mi Portafolio](https://juanj311.github.io/Portafolio-Juanjose/)**
 
-<h2 align="left">✨About me:</h2>
+---
 
-###
+### 🛠 Tecnologías conocidas:
 
-<p align="left">👾Desarrollador front-end/Back-end, Emprendedor, Investigador y apasionado por la programacion.<br><br>👦Interesado en aprender mas cada dia , pocos años de experiencia<br><br>😼Creativo, Programador freelancer... y en futuro quien sabe</p>
-[Mira mi Portafolio 👉](https://juanjo311.github.io/Portafolio-Juanjose/)
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,vue,bootstrap,git,github,nodejs,mysql,php,wordpress,vscode" />
 
-###
+---
 
-<br clear="both">
+### 📊 Git Stats:
 
-<p align="left"></p>
+**Juan Jose Tovar's GitHub Stats**  
+- ⭐ Total Stars Earned: **0**  
+- 🔄 Total Commits: **17**  
+- 🔀 Total PRs: **0**  
+- 📂 Total Issues: **0**  
+- 📅 Contributed to (last year): **0**
 
-###
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark)  
 
-<h2 align="left">👨‍💻   Tecnologias conocidas</h2>
+---
 
-###
+### 📈 Mis contribuciones:
 
-<br clear="both">
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=dark)  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-</div>
+---
 
-###
+### 🏆 Logros:
 
-<br clear="both">
-
-<p align="left"></p>
-
-###
-
-<h2 align="left">📊 Git Stats</h2>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juanjo311&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="178" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Juanjo311&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="177" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Juanjo311&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=github_dark&hide_border=true&order=2&custom_title=Juan%20Jose%20Tovar%20%F0%9F%A4%97" height="178" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Juanjo311&radius=19&theme=github-dark&area=true&order=5&hide_border=false&hide_title=false&custom_title=Mis%20contribuciones" height="411" alt="activity-graph graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Juanjo311&theme=tokyonight&column=8&row=3&margin-w=17&margin-h=10&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
+- 🏅 **Múltiples contribuciones**  
+- 👥 **Seguidores**  
+- 📂 **Repositorios**  
+- 🛠 **Experiencia**  
+- ⭐ **Stats**  
+- 🐞 **Issues**  
+- 🔄 **Pull Requests**  
+- 📝 **Reviews**
 
