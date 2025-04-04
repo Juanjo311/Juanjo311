@@ -22,7 +22,7 @@
 
 ### 🛠 Tecnologías conocidas:
 
-<img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,git,github,mysql,php,wordpress,vscode,figma,canva,powerbi" />
+<img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,git,github,mysql,php,wordpress,vscode,figma,canva,powerbi,md" />
 
 ---
 
@@ -55,3 +55,4 @@
 - 🐞 **Issues**  
 - 🔄 **Pull Requests**  
 - 📝 **Reviews**
+- 
