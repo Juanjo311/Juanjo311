@@ -16,7 +16,7 @@
 - 🚀 Desarrollador front-end / Back-end, Emprendedor, Investigador y apasionado por la programación.  
 - 📚 Interesado en aprender más cada día, a pocos años de experiencia.  
 - 🎨 Creativo, Programador freelancer... y en futuro quien sabe 🤓.  
-- 🔗 **<a href="https://juanj311.github.io/Portafolio-Juanjose/" target="_blank">Mira mi Portafolio</a>**
+- 🔗 **<a href="https://juanjo311.github.io/Portafolio-Juanjose/">Mira mi Portafolio</a>**
 
 ---
 
@@ -55,4 +55,3 @@
 - 🐞 **Issues**  
 - 🔄 **Pull Requests**  
 - 📝 **Reviews**
-
