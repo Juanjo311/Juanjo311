@@ -1,10 +1,10 @@
 ## Hello 👋 Soy Juan Jose / Programador  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/juan-jose-tovar-flores-663ba4231/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/tova.rjuanjose/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.facebook.com/profile.php?id=61568789981050&mibextid=rS40aB7S9Ucbxw6v"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="mailto:tovarfloresjuanjose616@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/juan-jose-tovar-flores-663ba4231/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/tova.rjuanjose/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.facebook.com/profile.php?id=61568789981050&mibextid=rS40aB7S9Ucbxw6v" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="mailto:tovarfloresjuanjose616@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -13,7 +13,7 @@
 - 🚀 Desarrollador front-end / Back-end, Emprendedor, Investigador y apasionado por la programación.  
 - 📚 Interesado en aprender más cada día, a pocos años de experiencia.  
 - 🎨 Creativo, Programador freelancer... y en futuro quien sabe 🤓.  
-- 🔗 **[Mira mi Portafolio](https://juanjo311.github.io/Portafolio-Juanjose/)**
+- 🔗 **<a href="https://juanj311.github.io/Portafolio-Juanjose/" target="_blank">Mira mi Portafolio</a>**
 
 ---
 
